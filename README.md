@@ -109,16 +109,19 @@
 
 ---
 
-## 🔭 Currently Working On
+## 🚀 Currently Working On
 
-<img align="right" alt="Working" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+- **Building Android & Flutter apps** for coursework and personal projects  
+- **Exploring Machine Learning and Data Science**  
+- **Mastering version control** with Git & GitHub  
+- **Strengthening problem-solving skills** through competitive coding  
+- **Learning backend development** with Python & APIs  
+- **Improving UI/UX design skills**
 
-- 📱 Building **Android & Flutter apps** for coursework and personal projects  
-- 🤖 Exploring **Machine Learning** and **Data Science** 
-- ⚙️ Mastering version control with **Git & GitHub**  
-- 📈 Strengthening **problem-solving skills** through competitive coding  
-- 🌐 Learning **backend development** with Python & APIs
-- 🎨 Improving **UI/UX design** skills
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="280"/>
+</p>
+
 
 ---
 
