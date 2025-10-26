@@ -115,8 +115,6 @@
 - **Exploring Machine Learning and Data Science**  
 - **Mastering version control** with Git & GitHub  
 - **Strengthening problem-solving skills** through competitive coding  
-- **Learning backend development** with Python & APIs  
-- **Improving UI/UX design skills**
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="280"/>
@@ -143,10 +141,9 @@
 
 ## 🎯 Goals for 2025
 
-- ✅ Contribute to **10+ open-source projects**
-- ✅ Build and deploy **3 production-ready mobile apps**
+- ✅ Contribute to **open-source projects**
+- ✅ Build and deploy **production-ready mobile apps**
 - ✅ Learn **advanced Machine Learning** algorithms
-- ✅ Write **technical blogs** to share knowledge
 - ✅ Collaborate with developers globally
 
 ---
