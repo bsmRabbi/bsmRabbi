@@ -100,9 +100,9 @@
       <p><strong>Android Development Course</strong> - Collection of smartphone app projects</p>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=bsmRabbi&repo=bsmRabbi&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=bsmRabbi&repo=Password_Generator_using_Dart&theme=tokyonight&hide_border=true" />
       <br><br>
-      <p><strong>Profile README</strong> - You're reading it right now! 😄</p>
+      <p><strong>Password_Generator</strong> - Generate strong and safe passwords</p>
     </td>
   </tr>
 </table>
