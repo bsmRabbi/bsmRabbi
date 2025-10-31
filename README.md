@@ -66,13 +66,13 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="250" width="480" src="https://github-readme-stats.vercel.app/api?username=bsmRabbi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=7200" alt="GitHub Stats"/>
-  <img height="250" width="480" src="https://github-readme-streak-stats.herokuapp.com?user=bsmRabbi&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="GitHub Streak"/>
+  <img height="250" width="420" src="https://github-readme-stats.vercel.app/api?username=bsmRabbi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=7200" alt="GitHub Stats"/>
+  <img height="250" width="420" src="https://github-readme-streak-stats.herokuapp.com?user=bsmRabbi&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img height="250" width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsmRabbi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=7200" alt="Top Languages"/>
-  <img height="250" width="480" src="https://github-readme-activity-graph.vercel.app/graph?username=bsmRabbi&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph&cache_seconds=7200" alt="Contribution Graph"/>
+  <img height="250" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsmRabbi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=7200" alt="Top Languages"/>
+  <img height="250" width="420" src="https://github-readme-activity-graph.vercel.app/graph?username=bsmRabbi&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph&cache_seconds=7200" alt="Contribution Graph"/>
 </p>
 
 
