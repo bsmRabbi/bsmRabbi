@@ -23,6 +23,7 @@
 - 💬 Ask me about **Flutter, Android, Python, Machine Learning**
 - 📫 Reach me: **bsmrabbi@gmail.com**
 - ⚡ Fun fact: **Debugging is like being a detective in a crime movie where you're also the murderer** 🕵️‍♂️
+- ✅ Learn more about me: **https://abusayemrabbi.netlify.app/**
 
 ---
 
