@@ -96,9 +96,9 @@
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=bsmRabbi&repo=Smartphone-Application-Development_CSE-3212&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=bsmRabbi&repo=File-Organizer&theme=tokyonight&hide_border=true" />
       <br><br>
-      <p><strong>Android Development Course</strong> - Collection of smartphone app projects</p>
+      <p><strong>File Organizer</strong> - Automatically organize messy folders</p>
     </td>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=bsmRabbi&repo=Password_Generator_using_Dart&theme=tokyonight&hide_border=true" />
