@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  <img height="250" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsmRabbi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=7200" alt="Top Languages"/>
+  <img height="200" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsmRabbi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=7200" alt="Top Languages"/>
   <img height="250" width="420" src="https://github-readme-activity-graph.vercel.app/graph?username=bsmRabbi&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph&cache_seconds=7200" alt="Contribution Graph"/>
 </p>
 
