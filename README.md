@@ -67,15 +67,29 @@
 
 ### 📊 GitHub Statistics  
 
-<p align="center">
-  <img height="250" width="420" src="https://github-readme-stats.vercel.app/api?username=bsmRabbi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=7200" alt="GitHub Stats"/>
-  <img height="250" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=bsmRabbi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+<div align="center" style="border: 2px solid #1f6feb; border-radius: 15px; padding: 20px; background-color: #0d1117;">
 
-<p align="center">
-  <img height="220" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsmRabbi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=7200" alt="Top Languages"/>
-  <img height="250" width="420" src="https://github-readme-activity-graph.vercel.app/graph?username=bsmRabbi&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph&cache_seconds=7200" alt="Contribution Graph"/>
-</p>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=bsmRabbi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+      </td>
+      <td align="center" width="50%">
+        <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=bsmRabbi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsmRabbi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+      </td>
+      <td align="center" width="50%">
+        <img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=bsmRabbi&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
 
 
 ---
