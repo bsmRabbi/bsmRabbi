@@ -91,7 +91,6 @@
 </div>
 
 
-
 ---
 
 ## 🚀 Featured Projects
@@ -99,26 +98,35 @@
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=bsmRabbi&repo=IoT_Asset_Tracker&theme=tokyonight&hide_border=true" />
+      <a href="https://github.com/bsmRabbi/IoT_Asset_Tracker">
+        <img src="https://img.shields.io/badge/IoT_Asset_Tracker-151515?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
       <br><br>
       <p><strong>IoT Asset Tracker</strong> - Real-time asset tracking system using IoT technology</p>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=bsmRabbi&repo=Smart-Course-Manager&theme=tokyonight&hide_border=true" />
+      <a href="https://github.com/bsmRabbi/Smart-Course-Manager">
+        <img src="https://img.shields.io/badge/Smart_Course_Manager-151515?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
       <br><br>
       <p><strong>Smart Course Manager</strong> - Intelligent course management application</p>
     </td>
   </tr>
+
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=bsmRabbi&repo=File-Organizer&theme=tokyonight&hide_border=true" />
+      <a href="https://github.com/bsmRabbi/File-Organizer">
+        <img src="https://img.shields.io/badge/File_Organizer-151515?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
       <br><br>
       <p><strong>File Organizer</strong> - Automatically organize messy folders</p>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=bsmRabbi&repo=Password_Generator_using_Dart&theme=tokyonight&hide_border=true" />
+      <a href="https://github.com/bsmRabbi/Password_Generator_using_Dart">
+        <img src="https://img.shields.io/badge/Password_Generator-151515?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
       <br><br>
-      <p><strong>Password_Generator</strong> - Generate strong and safe passwords</p>
+      <p><strong>Password Generator</strong> - Generate strong and safe passwords</p>
     </td>
   </tr>
 </table>
