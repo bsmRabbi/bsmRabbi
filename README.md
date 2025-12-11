@@ -64,28 +64,35 @@
 </p>
 
 ---
-### 📊 GitHub Statistics  
+### 📊 GitHub Statistics
 
-<table align="center">
+<table align="center" cellpadding="8">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bsmRabbi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+      <a href="https://github.com/bsmRabbi">
+        <img alt="Follow" src="https://img.shields.io/github/followers/bsmRabbi?label=Follow&style=for-the-badge" />
+      </a>
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com?user=bsmRabbi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      <a href="https://github.com/bsmRabbi?tab=repositories">
+        <img alt="Repos" src="https://img.shields.io/github/repo-count/bsmRabbi?style=for-the-badge" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bsmRabbi?tab=stars">
+        <img alt="Stars" src="https://img.shields.io/github/stars/bsmRabbi?style=for-the-badge" />
+      </a>
     </td>
   </tr>
 
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bsmRabbi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=bsmRabbi&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+    <td align="center" colspan="3">
+      <!-- Contribution graph (may be stable). If this image breaks, remove it and use the badges above. -->
+      <br/>
+      <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=bsmRabbi&theme=tokyo-night" />
     </td>
   </tr>
 </table>
-
 
 ---
 
