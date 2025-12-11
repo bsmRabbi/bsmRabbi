@@ -64,7 +64,6 @@
 </p>
 
 ---
-
 ### 📊 GitHub Statistics  
 
 <div align="center" style="border: 2px solid #1f6feb; border-radius: 15px; padding: 20px; background-color: #0d1117;">
@@ -96,7 +95,6 @@
   </table>
 
 </div>
-
 
 
 ---
