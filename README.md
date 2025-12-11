@@ -64,38 +64,53 @@
 </p>
 
 ---
-### 📊 GitHub Statistics  
+### 📊 GitHub Statistics
 
-<div align="center" style="border: 2px solid #1f6feb; border-radius: 15px; padding: 20px; background-color: #0d1117;">
+<div align="center" style="max-width:900px; margin:auto;">
+  <div style="border: 2px solid #1f6feb; border-radius: 15px; padding: 20px; background-color: #0d1117;">
+    <table align="center" cellpadding="12" cellspacing="0" style="width:100%; border-collapse:collapse;">
+      <tr>
+        <td align="center" style="width:50%; vertical-align:middle;">
+          <!-- GitHub Stats (mirror) -->
+          <img
+            src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bsmRabbi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+            alt="GitHub Stats"
+            style="max-width:100%; height:200px; display:block; margin:0 auto;"
+          />
+        </td>
 
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <!-- Working GitHub Stats Mirror -->
-        <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bsmRabbi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-      </td>
+        <td align="center" style="width:50%; vertical-align:middle;">
+          <!-- Streak Stats (stable mirror) -->
+          <img
+            src="https://streak-stats.demolab.com?user=bsmRabbi&theme=tokyonight&hide_border=true"
+            alt="GitHub Streak"
+            style="max-width:100%; height:200px; display:block; margin:0 auto;"
+          />
+        </td>
+      </tr>
 
-      <td align="center" width="50%">
-        <!-- Working Streak Stats Mirror -->
-        <img height="200" src="https://streak-stats.demolab.com?user=bsmRabbi&theme=tokyonight&hide_border=true" />
-      </td>
-    </tr>
+      <tr>
+        <td align="center" style="width:50%; vertical-align:middle;">
+          <!-- Top Languages (mirror) -->
+          <img
+            src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bsmRabbi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+            alt="Top Languages"
+            style="max-width:100%; height:200px; display:block; margin:0 auto;"
+          />
+        </td>
 
-    <tr>
-      <td align="center" width="50%">
-        <!-- Working Top Languages Mirror -->
-        <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bsmRabbi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-      </td>
-
-      <td align="center" width="50%">
-        <!-- Working Activity Graph Mirror -->
-        <img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=bsmRabbi&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" />
-      </td>
-    </tr>
-  </table>
-
+        <td align="center" style="width:50%; vertical-align:middle;">
+          <!-- Contribution Graph -->
+          <img
+            src="https://github-readme-activity-graph.vercel.app/graph?username=bsmRabbi&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph"
+            alt="Contribution Graph"
+            style="max-width:100%; height:200px; display:block; margin:0 auto;"
+          />
+        </td>
+      </tr>
+    </table>
+  </div>
 </div>
-
 
 ---
 
